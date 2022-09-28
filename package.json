@@ -1,0 +1,14 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "Project for implementing fundemental design patterns in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tashila",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
